@@ -30,10 +30,9 @@ class Home extends Component {
             <div>
               
                 <div className="mainContainer">
-                    
-              
-                                        
-                                            <RestaurantCard/>                                  
+                     
+                    <div ><RestaurantCard/> </div>                    
+                                                                  
                     
                 </div>
 
